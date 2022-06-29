@@ -18,11 +18,6 @@ namespace TestAPIIgnat.Clients
             "1174180",//8. RDR 2
             "1551360",//9. Forza Horizon 5
             "298110", //10. Far Cry 4
-            //////////////////////////////////////////
-            //"582160", //11. Assassin's Creed Origins 
-            //"284160", //12. BeamNG.drive
-            //"50130",  //13. Mafia II (classic)
-            //"1721470",//14. Poppy Playtime
         };
         public async Task<List<GameData>> GetGamesListAsync()
         {
